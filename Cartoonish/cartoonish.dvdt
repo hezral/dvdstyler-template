@@ -145,8 +145,8 @@
                 <use x="372" y="60" width="188" height="141" id="button02" xlink:href="#s_button02"/>
                 <use x="136" y="232" width="188" height="141" id="button03" xlink:href="#s_button03"/>
                 <use x="372" y="232" width="188" height="141" id="button04" xlink:href="#s_button04"/>
-                <use x="224" y="392" width="60" height="96" id="button05" xlink:href="#s_button05"/>
-                <use x="412" y="392" width="60" height="96" id="button06" xlink:href="#s_button06"/>
+                <use x="204" y="392" width="60" height="96" id="button05" xlink:href="#s_button05"/>
+                <use x="432" y="392" width="60" height="96" id="button06" xlink:href="#s_button06"/>
                 <use x="308" y="380" width="80" height="114" id="button07" xlink:href="#s_button07"/>
               </g>
             </svg>
